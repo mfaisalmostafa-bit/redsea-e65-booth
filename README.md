@@ -1,8 +1,13 @@
-# REDSEA Airlines · Booth E65
+# REDSEA Airlines · Booth D119 · Version 12
 
-Three booth options only.
+Design 02 **Wrap** — identical to Version 2 colours and stills.
 
-- [Download PDF](./REDSEA-E65-three-options.pdf)
+- Size: 3.00 × 3.00 × 2.50 m island
+- Location: D119
+- [Download PDF](./REDSEA-D119-V12.pdf)
+
+Options
+
+- 02 Wrap (featured)
 - 01 Mark
-- 02 Wrap
 - 03 Sea / Sky
